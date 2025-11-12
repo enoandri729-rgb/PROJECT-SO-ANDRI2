@@ -1,11 +1,14 @@
-PROJECT-OS-ANDRI2
-Project Based Learing 2
-LANGKAH 1 BUAT STRUKTUR DIREKTORI DAN FILE
+#PROJECT-OS-ANDRI2
 
-Berikut contoh perintah membuat direktori project_sistem_operasi_b dan sub-direktori src, doc, data:
-mkdir project_sistem_operasi_b
-cd project_sistem_operasi_b
-mkdir src doc data
+#Project Based Learing 2
+
+#LANGKAH 1 BUAT STRUKTUR DIREKTORI DAN FILE
+
+#Berikut contoh perintah membuat direktori project_sistem_operasi_b dan sub-direktori src, doc, data:
+
+*mkdir project_sistem_operasi_b
+*cd project_sistem_operasi_b
+*mkdir src doc data
 
 Berikut contoh perintah membuat dan mengisi file README.MD dan file file1.txt:
 touch README.MD
@@ -22,7 +25,8 @@ Penjelasan:
  * cd → berpindah direktori.
  * touch → membuat file kosong dengan cepat.
  * echo "Teks" → menulis teks ke dalam file.
-💾 LANGKAH 2 SCRIPT PENGHITUNG UKURAN FILE
+
+#LANGKAH 2 SCRIPT PENGHITUNG UKURAN FILE
 Pindah ke direktori src dan buat script yang akan menghitung ukuran direktori:
 cd src
 nano main.sh
