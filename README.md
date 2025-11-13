@@ -43,10 +43,11 @@ https://drive.google.com/file/d/1qUOiDikoObeE1SS2v4n3p5bLzS_psx4M/view?usp=drive
 ISI SCRIPT (main.sh)
 Ketikkan isi script persis seperti yang Anda tunjukkan, yang menggunakan perintah du (Disk Usage):
 
+# Menampilkan ukuran direktori project_sistem_operasi_b dalam format mudah di baca
+
 https://drive.google.com/file/d/1qRZTQMl-Ozwg9_ymtgfH-8Gbl1kDhJ1h/view?usp=drivesdk
 
 #!/bin/bash
-# Menampilkan ukuran direktori project_sistem_operasi_b dalam format mudah di baca
 echo
 echo "ukuran total:"
 echo "==================================================="
