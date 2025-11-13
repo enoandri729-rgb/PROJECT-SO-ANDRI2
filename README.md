@@ -1,8 +1,8 @@
-#PROJECT-OS-ANDRI2
+# PROJECT-OS-ANDRI2
 
-#Project Based Learing 2
+# Project Based Learing 2
 
-#LANGKAH 1 BUAT STRUKTUR DIREKTORI DAN FILE
+# LANGKAH 1 BUAT STRUKTUR DIREKTORI DAN FILE
 
 #Berikut contoh perintah membuat direktori project_sistem_operasi_b dan sub-direktori src, doc, data:
 
