@@ -10,15 +10,21 @@
 *cd project_sistem_operasi_b
 *mkdir src doc data
 
+https://drive.google.com/file/d/1qTCzcNqx2gVlr2nbMQtGDfVEyoBs0kvK/view?usp=drivesdk
+
 Berikut contoh perintah membuat dan mengisi file README.MD dan file file1.txt:
 touch README.MD
-echo "Tugas 2 Meylan C. Salamun Kelas SI B" > README.MD
+echo "Tugas 2 Andri Eno Kelas SI A" > README.MD
 touch file1.txt
+
+https://drive.google.com/file/d/1qTCzcNqx2gVlr2nbMQtGDfVEyoBs0kvK/view?usp=drivesdk
 
 Berikut contoh perintah berpindah ke direktori doc dan membuat file file2.docx:
 cd doc
 touch file2.docx
 cd ..
+
+https://drive.google.com/file/d/1qTCzcNqx2gVlr2nbMQtGDfVEyoBs0kvK/view?usp=drivesdk
 
 Penjelasan:
  * mkdir → membuat folder baru.
