@@ -32,13 +32,19 @@ Penjelasan:
  * touch → membuat file kosong dengan cepat.
  * echo "Teks" → menulis teks ke dalam file.
 
-#LANGKAH 2 SCRIPT PENGHITUNG UKURAN FILE
+ #LANGKAH 2 SCRIPT PENGHITUNG UKURAN FILE
+
 Pindah ke direktori src dan buat script yang akan menghitung ukuran direktori:
 cd src
 nano main.sh
 
+https://drive.google.com/file/d/1qUOiDikoObeE1SS2v4n3p5bLzS_psx4M/view?usp=drivesdk
+
 ISI SCRIPT (main.sh)
 Ketikkan isi script persis seperti yang Anda tunjukkan, yang menggunakan perintah du (Disk Usage):
+
+https://drive.google.com/file/d/1qRZTQMl-Ozwg9_ymtgfH-8Gbl1kDhJ1h/view?usp=drivesdk
+
 #!/bin/bash
 # Menampilkan ukuran direktori project_sistem_operasi_b dalam format mudah di baca
 echo
